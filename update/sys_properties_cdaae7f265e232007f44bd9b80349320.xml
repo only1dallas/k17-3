@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>Destination of debugging message</choices>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_k17.ystem</name>
+        <read_roles/>
+        <suffix>ystem</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 18:48:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cdaae7f265e232007f44bd9b80349320</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_k17.ystem</sys_name>
+        <sys_package display_value="K17" source="x_snc_k17">6ecd5b7a65a232007f44bd9b803493a5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K17">6ecd5b7a65a232007f44bd9b803493a5</sys_scope>
+        <sys_update_name>sys_properties_cdaae7f265e232007f44bd9b80349320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 18:49:13</sys_updated_on>
+        <type>string</type>
+        <value>file</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=cdaae7f265e232007f44bd9b80349320"/>
+</record_update>
